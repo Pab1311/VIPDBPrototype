@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49414617-7e80-4054-a632-f710a09ee216" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pfqRQe8kcwuuKY7rqEP2UFTJcf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pab13\Desktop\Practice_2_1\VIPDatabaseMockup\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.VIPDatabaseMockup [jar]">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="VIPDatabaseMockup.main" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\pab13\Desktop\javafx-sdk-11.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.base,javafx.media,javafx.graphics,javafx.swing,javafx.web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VIPDatabaseMockup [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.VIPDatabaseMockup [jar]" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49414617-7e80-4054-a632-f710a09ee216" name="Default Changelist" comment="" />
+      <created>1615584486433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615584486433</updated>
+      <workItem from="1615584490295" duration="4796000" />
+      <workItem from="1616011381377" duration="67000" />
+      <workItem from="1616881421751" duration="2070000" />
+      <workItem from="1617050019375" duration="10636000" />
+      <workItem from="1617124845671" duration="5700000" />
+      <workItem from="1617142243227" duration="1342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615584991297">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1615584991297" />
+    <state x="558" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615584798336">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="558" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1615584798336" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1617143706517">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1617143706517" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1617143706517">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1617143706517" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1617143706517">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1617143706517" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1617143706517">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1617143706517" />
+    <state x="530" y="205" key="extract.method.dialog" timestamp="1617125090611">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="205" key="extract.method.dialog/0.0.1600.860@0.0.1600.860" timestamp="1617125090611" />
+    <state x="182" y="40" key="new project wizard" timestamp="1616011465384">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="40" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1616011465384" />
+    <state x="856" y="199" key="run.anything.popup" timestamp="1617057023397">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="856" y="199" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1617057023397" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1617060555969">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1617060555969" />
+  </component>
+</project>
