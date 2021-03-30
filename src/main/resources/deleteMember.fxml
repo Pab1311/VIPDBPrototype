@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="303.0" prefWidth="730.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ControllerTwo">
+
+  <children>
+      <Label layoutX="45.0" layoutY="35.0" text="Are You Sure You Would Like to Delete This Member?">
+         <font>
+            <Font size="27.0" />
+         </font>
+      </Label>
+      <Label layoutX="45.0" layoutY="167.0" text="Reenter the UIN of the member you would like to delete:">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <TextField fx:id="deleteUIN" layoutX="429.0" layoutY="165.0" />
+      <Button layoutX="298.0" layoutY="222.0" mnemonicParsing="false" onAction="#confirmDeletion" text="Delete Member" />
+  </children>
+
+</Pane>
